@@ -27,7 +27,7 @@
 	"needExitbutton":"true",
 	"serverUrl":"ecast.jackboxgames.com",
 	"protocol":"https",
-	"uaVersionId":"2.0.1",
-	"buildTimeStamp":"2024-10-14 01:25:59",
-	"buildVersion":"241"
+	"uaVersionId":"2.0.3",
+	"buildTimeStamp":"2025-03-03 15:02:10",
+	"buildVersion":"365"
 }

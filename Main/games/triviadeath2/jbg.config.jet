@@ -12,7 +12,7 @@
 	"supportsKeyboard":"true",
 	"defaultLocale":"en",
 	"jsonMain":"json",
-	"uaVersionId":"2.0.1",
+	"uaVersionId":"2.0.3",
 	"uaAppId":"triviadeath2-tjsp",
 	"uaAppName":"TriviaDeath2-tjsp",
 	"audio-extension":".ogg",
@@ -29,6 +29,6 @@
 	"connectingDurationTrouble":"15000",
 	"isBundle":"true",
 	"handlePlayerKicks":"false",
-	"buildTimeStamp":"2024-10-14 01:26:34",
-	"buildVersion":"241"
+	"buildTimeStamp":"2025-03-03 15:02:56",
+	"buildVersion":"365"
 }

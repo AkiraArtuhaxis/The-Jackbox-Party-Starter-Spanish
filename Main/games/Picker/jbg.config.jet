@@ -14,7 +14,7 @@
 	"video-extension":".usm",
 	"supportsJoysticksHotplugging":"true",
 	"connectingDurationTrouble":"15000",
-	"uaVersionId":"1.2.1",
+	"uaVersionId":"1.2.2",
 	"supportsKeyboard":"true",
 	"legalText":"jackboxFmodCriware",
 	"audio-extension":".ogg",
@@ -23,6 +23,6 @@
 	"supportedLocales":"en,fr,it,de,es,es-XL,pt-BR",
 	"uaAppId":"tjsppicker",
 	"needExitbutton":"true",
-	"buildTimeStamp":"2024-10-14 01:26:03",
-	"buildVersion":"241.1-ES"
+	"buildTimeStamp":"2025-03-03 15:02:14",
+	"buildVersion":"365"
 }
